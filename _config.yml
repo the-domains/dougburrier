@@ -1,7 +1,7 @@
 name: dougburrier
 favicon: null
 layout_spectrum: 0.15001684869639575
-typography_spectrum: 0.2111221698578447
+typography_spectrum: 0.28073
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#eff5f8'
+    - '#181816'
+    - '#ff8f00'
+    - '#b9beb4'
+    - '#a94c00'
   brandStrength: 0.8486555011477321
   lightness: 0.4050616801250726
   saturation: 0.8946140347979963
-  rhythmicContrast: 0.2765824790112674
+  rhythmicContrast: 0.25
 purpose: []
